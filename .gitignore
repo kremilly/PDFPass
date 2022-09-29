@@ -1,0 +1,9 @@
+dist/
+build/
+
+*.spec
+
+*.ico
+*.png
+*.pdf
+*.psd
