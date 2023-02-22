@@ -1,6 +1,6 @@
 # ![Icon](https://i.imgur.com/ZYZtjMt.png)
 
-PDFPass cli | [Download](https://github.com/thesilvacesar/pdfpass/releases) | By: [@thesilvacesar](https://github.com/thesilvacesar)
+PDFPass cli | [Download](https://github.com/thesilvaemily/pdfpass/releases) | By: [@thesilvaemily](https://github.com/thesilvaemily)
 
 ## Example of use
 
